@@ -1,0 +1,57 @@
+{
+    "type": 1,
+    "folderId": null,
+    "OrganizationId": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
+    "name": "encrypted",
+    "notes": "encrypted",
+    "favorite": false,                              
+    "lastKnownRevisionDate": "2000-01-01T00:00:00.000Z",
+    "reprompt": 0,
+    "login": {
+        "response": null,
+        "uris": [
+            {
+                "response": null,
+                "match": null,
+                "uri": "encrypted"
+            },
+            {
+                "response": null,
+                "match": null,
+                "uri": "encrypted"
+            },
+            {
+                "response": null,
+                "match": null,
+                "uri": "encrypted"
+            }
+        ],
+        "username": "encrypted",
+        "password": "encrypted",
+        "passwordRevisionDate": "2000-01-01T00:00:00.000Z",
+        "totp": null,
+        "autofillOnPageLoad": null
+    },
+    "passwordHistory": [
+        {
+            "lastUsedDate": "2000-01-01T00:00:00.000Z",
+            "password": "encrypted"
+        },
+        {
+            "lastUsedDate": "2000-01-01T00:00:00.000Z",
+            "password": "encrypted"
+        },
+        {
+            "lastUsedDate": "2000-01-01T00:00:00.000Z",
+            "password": "encrypted"
+        },
+        {
+            "lastUsedDate": "2000-01-01T00:00:00.000Z",
+            "password": "encrypted"
+        },
+        {
+            "lastUsedDate": "2000-01-01T00:00:00.000Z",
+            "password": "encrypted"
+        }
+    ]
+}
