@@ -1,0 +1,117 @@
+{
+    "Attachments": null,
+    "Card": null,
+    "CollectionIds": [
+        "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee"
+    ],
+    "CreationDate": "2000-01-01T00:00:00.000Z",
+    "Data": {
+        "AutofillOnPageLoad": null,
+        "Fields": null,
+        "Name": "encypted",
+        "Notes": "encypted",
+        "Password": "encypted",
+        "PasswordHistory": [
+            {
+                "LastUsedDate": "2000-01-01T00:00:00.000Z",
+                "Password": "encypted"
+            },
+            {
+                "LastUsedDate": "2000-01-01T00:00:00.000Z",
+                "Password": "encypted"
+            },
+            {
+                "LastUsedDate": "2000-01-01T00:00:00.000Z",
+                "Password": "encypted"
+            },
+            {
+                "LastUsedDate": "2000-01-01T00:00:00.000Z",
+                "Password": "encypted"
+            },
+            {
+                "LastUsedDate": "2000-01-01T00:00:00.000Z",
+                "Password": "encypted"
+            }
+        ],
+        "PasswordRevisionDate": "2000-01-01T00:00:00.000Z",
+        "Totp": null,
+        "Uri": "encypted",
+        "Uris": [
+            {
+                "Match": null,
+                "Uri": "encypted"
+            },
+            {
+                "Match": null,
+                "Uri": "encypted"
+            },
+            {
+                "Match": null,
+                "Uri": "encypted"
+            }
+        ],
+        "Username": "encypted"
+    },
+    "DeletedDate": null,
+    "Edit": true,
+    "Favorite": false,
+    "Fido2Key": null,
+    "Fields": null,
+    "FolderId": null,
+    "Id": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
+    "Identity": null,
+    "Login": {
+        "AutofillOnPageLoad": null,
+        "Password": "encypted",
+        "PasswordRevisionDate": "2000-01-01T00:00:00.000Z",
+        "Totp": null,
+        "Uri": "encypted",
+        "Uris": [
+            {
+                "Match": null,
+                "Uri": "encypted"
+            },
+            {
+                "Match": null,
+                "Uri": "encypted"
+            },
+            {
+                "Match": null,
+                "Uri": "encypted"
+            }
+        ],
+        "Username": "encypted"
+    },
+    "Name": "encypted",
+    "Notes": "encypted",
+    "Object": "cipherDetails",
+    "OrganizationId": "aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",    
+    "OrganizationUseTotp": true,
+    "PasswordHistory": [
+        {
+            "LastUsedDate": "2000-01-01T00:00:00.000Z",
+            "Password": "encypted"
+        },
+        {
+            "LastUsedDate": "2000-01-01T00:00:00.000Z",
+            "Password": "encypted"
+        },
+        {
+            "LastUsedDate": "2000-01-01T00:00:00.000Z",
+            "Password": "encypted"
+        },
+        {
+            "LastUsedDate": "2000-01-01T00:00:00.000Z",
+            "Password": "encypted"
+        },
+        {
+            "LastUsedDate": "2000-01-01T00:00:00.000Z",
+            "Password": "encypted"
+        }
+    ],
+    "Reprompt": 0,
+    "RevisionDate": "2000-01-01T00:00:00.000Z",
+    "SecureNote": null,
+    "Type": 1,
+    "ViewPassword": true
+}
